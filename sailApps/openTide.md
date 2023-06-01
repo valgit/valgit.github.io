@@ -60,4 +60,5 @@ For any questions or support, please reach out to our [customer support](/contac
 
 [![Ko-fi](https://ko-fi.com/path/to/ko-fi-image)](https://ko-fi.com/vald70)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5L8F29)
 
