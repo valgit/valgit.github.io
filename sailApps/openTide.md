@@ -9,6 +9,13 @@ Welcome to the Garmin Watches Tide Widget page!
 
  With our widget, you can easily access tide information for any location directly on your Garmin watch. Stay informed about high and low tides to plan your outdoor activities, fishing trips, and coastal adventures.
 
+Download current tide data through your smartphone. 7 days of tide data are available for offline viewing so you can leave your phone in a safe place during your on-the-water activities.
+
+Defaults to the current GPS position. Press START to enter coordinates for a different location or select a recently used location. Use UP/DOWN to change the date.
+
+**WARNING**: Tide information is for reference purposes only. Tide data is provided to Garmin by World Weather Online, and Garmin makes no representations about the accuracy, reliability, completeness, or timeliness of this tide data. It is your responsibility to heed all posted water-related guidance and to use safe judgment around the water at all times. Failure to heed this warning could result in serious personal injury or death. Any use or reliance on tide information is at your own risk.
+
+
 ### How to Use the Tide Widget
 
 Using our Garmin Watches Tide Widget is simple and convenient. Just follow these steps:
@@ -16,6 +23,8 @@ Using our Garmin Watches Tide Widget is simple and convenient. Just follow these
 1. Make sure your Garmin watch is compatible with widgets. Check the Garmin website for compatibility information and ensure that your watch has the necessary software version.
 
 2. Download and install our Tide Widget from the Garmin Connect IQ Store. The widget is designed to integrate seamlessly with your watch's interface.
+
+[openTide](https://apps.garmin.com/en-US/apps/3d3120d7-1629-4f27-b39c-6e8377d22bc3)
 
 ![Garmin Store](/images/appStore.png)
 
@@ -48,3 +57,7 @@ For any questions or support, please reach out to our [customer support](/contac
 ![manage](/images/manageWatche.png)
 ![widget list](/images/widgetList.png)
 ![open tide](/images/openTide_widget.png)
+
+[![Ko-fi](https://ko-fi.com/path/to/ko-fi-image)](https://ko-fi.com/vald70)
+
+
