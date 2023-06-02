@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+
+buy me a kofi : [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U5L8F29)
+
+
