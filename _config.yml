@@ -21,15 +21,16 @@
 title: Opal Sea Racing
 email: vbrasseur+opal (at) gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Race tracking and Tides or currents watch app
+  a comprehensive collection of tide, sail, and regatta tools to optimize your sailing adventures
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: val75429282
 github_username:  valgit
 
 # Build settings
-theme: minima
+#theme: minima
 #remote_theme: chrisrhymes/mere-blog-theme
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
 
