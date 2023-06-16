@@ -63,4 +63,10 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 #   - vendor/gems/
 #   - vendor/ruby/
 paginate: 5
+paginate_path: /page:num/
+search: true
+
+author:
+  name: Valery
+  twitter: val75429282
 
