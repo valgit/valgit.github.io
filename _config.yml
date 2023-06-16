@@ -62,3 +62,5 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+paginate: 5
+
