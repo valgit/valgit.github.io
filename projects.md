@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Open Source Projects
+permalink: /projects
 ---
 
+Some of my OpenSource project 
 
 {% for repo in site.github.public_repositories %}
 
