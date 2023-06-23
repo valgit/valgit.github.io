@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Flanders trophy 17/18 Juin - jour 1"
-categories: regate flanders
+categories: [regate, flanders]
 date:   2023-06-17
 custom_css: leaflet
 custom_js: leaflet
