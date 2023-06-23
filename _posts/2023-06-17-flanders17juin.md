@@ -26,7 +26,7 @@ C'est la deuxième étape du Flanders Trophy, une compétition réunissant les m
 
 </script>
     
-<script src="/animate.js"></script>
+<script src="/js/animate.js"></script>
 {% endraw %}
 
 relevé des vents de la journée :
