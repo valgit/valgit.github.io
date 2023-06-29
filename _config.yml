@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: val75429282
 github_username:  valgit
-google_analytics: UA-NNNNNNNN-N
+google_analytics: G-DCH1ZPPKNS
 logo: /images/osr.png
 copyright: "© 2023 Opal Sea Racing."
 
