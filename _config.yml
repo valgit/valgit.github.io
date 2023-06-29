@@ -27,6 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: val75429282
 github_username:  valgit
 google_analytics: UA-NNNNNNNN-N
+logo: /images/osr.png
 copyright: "© 2023 Opal Sea Racing."
 
 # Build settings
