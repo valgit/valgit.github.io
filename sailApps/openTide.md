@@ -22,6 +22,8 @@ openTide Widget offers several features to enhance your experience:
 - **Multiple Locations:** The widget allows you to save and switch between multiple locations, making it easy to access tide information for different coastal areas.
 
 
+![widget](/images/openTide.jpg)
+
 **WARNING**: Tide information is for reference purposes only. Tide data is provided to Garmin by World Weather Online, and Garmin makes no representations about the accuracy, reliability, completeness, or timeliness of this tide data. It is your responsibility to heed all posted water-related guidance and to use safe judgment around the water at all times. Failure to heed this warning could result in serious personal injury or death. Any use or reliance on tide information is at your own risk.
 
 ## Get the Widget

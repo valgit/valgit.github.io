@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "fête du port -  Yacht Club de la Mer du Nord"
+title:  "Fête du port -  Yacht Club de la Mer du Nord"
 categories: [regate, evenement]
 date:   2023-06-24
 ---
