@@ -63,7 +63,7 @@ var timeDimensionControlOptions = {
 var timeDimensionControl = new L.Control.TimeDimension(timeDimensionControlOptions);
 map.addControl(timeDimensionControl);
 
-var icon = L.icon({
+var boatIcon = L.icon({
     iconUrl: 'images/sailing-boat.png',
     iconSize: [22, 22],
     iconAnchor: [5, 25]
@@ -73,7 +73,7 @@ var customLayer = L.geoJson(null, {
     pointToLayer: function (feature, latLng) {
         if (feature.properties.hasOwnProperty('last')) {
             return new L.Marker(latLng, {
-                icon: icon
+                icon: boatIcon
             });
         }
         return L.circleMarker(latLng);
