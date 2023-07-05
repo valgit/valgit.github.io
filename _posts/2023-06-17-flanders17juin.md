@@ -24,6 +24,10 @@ C'est la deuxième étape du Flanders Trophy, une compétition réunissant les m
             { path: '/gpx/flanders_day16.gpx', color: 'red',  title: 'all races' },                
         ];
 
+      // set wind
+    var windbarbs = [
+        { deg: 200, speed:5 },
+    ];
 </script>
     
 <script src="/js/animate.js"></script>

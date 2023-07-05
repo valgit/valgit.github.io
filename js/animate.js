@@ -120,7 +120,10 @@ L.control.layers(null, overlayMaps).addTo(map);
 
 defaultLayer.addTo(map);
 
-var icon = L.WindBarb.icon({lat:50, deg: 200, speed:5});
-//var marker = L.marker([51.070635, 2.362061], {icon: icon}).addTo(map);
-var marker = L.marker([51.067808, 2.38502], {icon: icon}).addTo(map);
+windbarbs.forEach(function(windData, index) {
+    var icon = L.WindBarb.icon({lat:50, deg: windData.deg, speed: windData.speed});
+    // TODO: set lat/lon
+    var marker = L.marker([51.05, 2.36], {icon: icon}).addTo(map);
+    
+});
 

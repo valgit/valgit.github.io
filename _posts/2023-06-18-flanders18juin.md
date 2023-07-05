@@ -24,6 +24,10 @@ Dimanche 18 Juin, deuxième jour regate du Flanders Trophy 3&4
             { path: '/gpx/flanders18/r4.gpx', color: 'yellow' , title: 'race 4' },
         ];
 
+      // set wind
+    var windbarbs = [
+        { deg: 200, speed:5 },
+    ];
 </script>
     
 <script src="/js/animate.js"></script>
