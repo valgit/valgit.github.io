@@ -38,8 +38,7 @@ relevé des vents de la journée :
 {% raw %}
 <script>
     // load files
-    var r1GPXFiles = [
-            { path: '/gpx/1erjuillet.gpx', color: 'red',  title: 'all races' },                
+    var r1GPXFiles = [            
             { path: '/gpx/0107_p1.gpx', color: 'blue',  title: 'p1' }, 
             { path: '/gpx/0107_p2.gpx', color: 'blue',  title: 'p2' }, 
         ];
@@ -59,8 +58,8 @@ quelques images de la sortie :
 ![equipage](/images/posts/sortie0107/IMG_0982.JPG)
 
 au ponton :   
-• on a rincé et fait sécher un peu les housses trempées
-• celle du génois étant sèche, on la remit dedans.
-• à midi Nathalie a vidé les fonds (4 seaux ! )
-• le vide-poche tribord est décousu, il faudrait soit le recoudre ou le changer.
+* on a rincé et fait sécher un peu les housses trempées
+* celle du génois étant sèche, on la remit dedans.
+* à midi Nathalie a vidé les fonds (4 seaux ! )
+* le vide-poche tribord est décousu, il faudrait soit le recoudre ou le changer.
 ![poche](/images/posts/sortie0107/IMG_0983.JPG)
