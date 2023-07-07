@@ -36,20 +36,40 @@ relevé des vents de la journée :
 
 
 {% raw %}
+  <script>
+        var gpx_file = "/gpx/0107_p1.gpx";
+        var winddir = 270;
+    </script>  
+{% endraw %}
+
+{% raw %}
+<script src="/js/analysis.js"></script>
 <script>
     // load files
     var r1GPXFiles = [            
             { path: '/gpx/0107_p1.gpx', color: 'blue',  title: 'p1' }, 
             { path: '/gpx/0107_p2.gpx', color: 'blue',  title: 'p2' }, 
         ];
-    // set wind
-    var windbarbs = [
-        { deg: 270, speed:18 },
-    ];
+
+     function createWindBarbs(windData) {
+                windData.forEach(function (data) {
+                    var icon = L.WindBarb.icon({ lat: data.lat, deg: data.deg, speed: data.speed });
+                    var marker = L.marker([data.lat, data.lon], { icon: icon }).addTo(map);
+                });
+            }
+
+            // Example wind data
+            var windData = [
+                { lat: 51.058, lon: 2.41, deg: 270, speed: 18 },
+                { lat: 51.067, lon: 2.347, deg: 270, speed: 18 },
+                // ... additional wind data points
+            ];
+            
+            // Call the function to create wind barbs
+            createWindBarbs(windData);    
 
 </script>
     
-<script src="/js/animate.js"></script>
 {% endraw %}
 
 quelques images de la sortie :
