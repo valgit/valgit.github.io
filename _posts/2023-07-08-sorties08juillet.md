@@ -14,7 +14,7 @@ deux sortiex ce jour, une matin, une apres-midi !
 
 # matin 
 vent quasi nul :    
-![vent matin](/images/posts/sortie087/wind_matin.png)
+![vent matin](/images/posts/sortie0807/wind_matin.png)
 propice à la reflection strategique pour atteindre la sortie du port.
 
 # apres-midi 
