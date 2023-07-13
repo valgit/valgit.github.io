@@ -2,7 +2,7 @@
 layout: page
 title: youtube player test
 permalink: /yt_test
-youtubeId: putYourIDHere
+youtubeId: NZVkNmpM0JQ
 ---
 
 Some video test
